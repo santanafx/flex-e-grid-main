@@ -1,0 +1,18 @@
+body {
+  background-color: #1d232a;
+  font-family: "Open sans", sans-serif;
+  color: #ffffff;
+}
+
+.cabecalho {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #15191c;
+  padding: 8px 16px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.16);
+  /*para mover na HORIZONTAL o cabecalho__menu, cabecalho__logo e cabecalho__notificacao podemos utilizar o 
+  justify-content: flex-start, flex-end, center, space-around, space-evenly, space-between */
+  /* para mover os itens mencionados acima na VERTICAL podemos utilizar:display: 
+  align-items: flex-start, flex-end, center, stretch*/
+}
