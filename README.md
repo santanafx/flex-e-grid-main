@@ -1,6 +1,6 @@
 # flex-e-grid-main
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/santanafx/alurabooks/blob/main/LICENSE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/santanafx/flex-e-grid-main/blob/main/LICENSE)
 
 # Sobre o projeto
 
