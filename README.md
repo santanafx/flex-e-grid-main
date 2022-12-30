@@ -1,3 +1,11 @@
+# flex-e-grid-main
+
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/santanafx/alurabooks/blob/main/LICENSE)
+
+# Sobre o projeto
+
+Projeto desenvolvido pela alura para aprender o uso de flex e grid.
+
 # Guia de estilos
 
 Toda a estilização que será usada no projeto dentro do figma.
@@ -103,3 +111,14 @@ Largura máxima do conteúdo principal: `1120px`
 Largura máxima de um cartão desktop: `256px`
 
 Altura mínima de um cartão: `320px`
+
+# Linguagens de programação utilizadas
+
+- HTML
+- CSS
+
+# Autor
+
+https://github.com/beatrizmouradev
+
+
