@@ -119,6 +119,6 @@ Altura mínima de um cartão: `320px`
 
 # Autor
 
-https://github.com/beatrizmouradev
+https://github.com/ikyrie
 
 
